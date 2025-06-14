@@ -1,0 +1,11 @@
+{
+    "task_name": "Make login page",
+    "task_id": 54,
+    "description": "make frontend and connect it to backend and make input validation.",
+    "student": {
+        "firstName": "test500",
+        "lastName": "test500",
+        "id": "ac7ed6ba-62ab-439c-a860-3b126ebe7dd1"
+    },
+    "cloned": false
+}
